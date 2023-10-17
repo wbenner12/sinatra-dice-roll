@@ -42,4 +42,6 @@ get("dice/1/20") do
 
   "<h1>1d20</h1>
   <p>#{outcome}</p>"
-  
+end
+
+
